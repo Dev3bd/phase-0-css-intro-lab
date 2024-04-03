@@ -18,3 +18,27 @@ div {
 .perspective-questions {
   /* Your code here! */
 }
+/* style.css */
+/* Set the background of the <body> element */
+body {
+  background-color: #00b3e6;
+}
+
+/* Set the <div> elements */
+div {
+  width: 700px;
+  margin: auto;
+  font-family: "Helvetica Neue";
+  background-color: white;
+  padding: 30px;
+}
+
+/* Set the element with the id of #main-header */
+#main-header {
+  font-size: 22px;
+}
+
+/* Set the elements with the class of .perspective-questions */
+.perspective-questions {
+  font-style: italic;
+}
